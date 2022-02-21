@@ -14,3 +14,8 @@ The backend will check if this "user" alrady singd up and if he didn't, the back
 
 <img align="center" src="https://media.giphy.com/media/OJ03FjiLv28vOjdT8s/giphy.gif" width="550">
 
+<h3>How to run? 🧐</h3>
+1. install node.js.
+2. install node_modules.
+3. run in terminal "node server.js".
+4. go to your browser and type http://localhost:3000/. 
