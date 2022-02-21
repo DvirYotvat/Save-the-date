@@ -12,4 +12,4 @@ The details you filled up in the form will be saved in a json file.
 fill up the from, submit the details and the details will be sending to backend.
 The backend will check if this "user" alrady singd up and if he didn't, the backend will add him (or her) to the json file.
 
-<img align="center" src="https://giphy.com/gifs/3LYC03rpU0gCUGrFVv/giphy.gif" width="550">
+<img align="center" src="https://giphy.com/gifs/3LYC03rpU0gCUGrFVv" width="550">
