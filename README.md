@@ -18,6 +18,6 @@ The backend will check if this "user" alrady singd up and if he didn't, the back
 <h3>How to run? 🧐</h3>
 <br>
 1. install node.js. <br>
-2. install node_modules. <br>
-3. run in terminal "node server.js". <br>
+2. install node_modules in the main file of the project. <br>
+3. run terminal (in the main file of the project) and type "node server.js". <br>
 4. go to your browser and type http://localhost:3000/. <br>
